@@ -26,8 +26,9 @@ Juiste balans vinden
 
 Een model is een vereenvoudigde weergave/voorstelling van
 de realiteit die het makkelijker maakt om een specifiek
-probleem te bestuderen dan de realiteit zelf
-Modellen zijn de kern van marketing engineering
+probleem te bestuderen dan de realiteit zelf.
+
+Modellen zijn de kern van marketing engineering.
 
 ~~Data~~ -> __Information -> Information -> Insights -> Decisions__ -> ~~Implementation~~
 
@@ -39,11 +40,11 @@ Resultaat van eerder onderzoek met een ander doel
 
 - Gegevens zoals: verkopen per regio, per klant, per product, klachten, rapporten
 - Publieke bronnen: kamer van koophandel, vakbonden, andere organisaties
-- Niet Publiek bronnen: bv. __Syndicated services.__ Marktonderzoeksorganisaties die informatie aanieden vanuit een gemeenschappelijke database aan verschillende bedrijven die zich hebben ingeschreven voor deze diensten. (bv. Nielsen)
+- Niet Publiek bronnen: bv. __Syndicated services:__ Marktonderzoeksorganisaties die informatie aanieden vanuit een gemeenschappelijke database aan verschillende bedrijven die zich hebben ingeschreven voor deze diensten. (bv. Nielsen)
 
 Kwaliteit nakijken
 
-- Wat was het doel van d studie?
+- Wat was het doel van de studie?
 - Wie verzamelde de info?
 - Welke info?
 - Hoe?
@@ -55,15 +56,15 @@ Hoe verzamelen syndicated services hun data?
     - bv. Consumentenpanel
 - Andere technieken
 
-__Consumentenpanel__ longitudinale, continue studie van een representatieve steekproef van consumenten. Waarvan men bepaalde informatie herhaaldelijk meet.
+__Consumentenpanel:__ longitudinale, continue studie van een representatieve steekproef van consumenten. Waarvan men bepaalde informatie herhaaldelijk meet.
 
 - Alles dat wordt gekocht
     - Waar
     - Hoeveel
     - Voor welke prijs
 - Invloed van reclame
-    - __Weight test__ freq. van reclame varieert
-    - __Copy test__ freq. blijft gelijk, inhoud varieert
+    - __Weight test:__ frequentie van reclame varieert
+    - __Copy test:__ frequentie blijft gelijk, inhoud varieert
 
 
 ## Primaire bronnen
@@ -100,7 +101,7 @@ Inhoud van gesprekken wordt verwerkt. Wat kwam aan bod en hoe vaak, misschien in
 - Voldoende omvang
 - Representatief
 
-__Survey.__ Een onderzoek of enquête aan de hand van een vragenlijst.
+__Survey:__ Een onderzoek of enquête aan de hand van een vragenlijst.
 
 - Precieze vragen
     - Zie sectie questionaire development
@@ -108,20 +109,20 @@ __Survey.__ Een onderzoek of enquête aan de hand van een vragenlijst.
 - Forceert de respondent in een denkkader
 - Omvang en representativiteit van de steek proef belangrijk
 
-__Observatie.__ Bekijken en coderen van gedrag om systematische patronen te ontdekken.
+__Observatie:__ Bekijken en coderen van gedrag om systematische patronen te ontdekken.
 
 - Garbology (onderzoek van afval)
 - Scanner data
 - Eye tracking
 - Clickstream-data (data van internetgebruik)
 
-__Experiment.__ Zoals een observatie maar onder gecontroleerde omstandigheden.
+__Experiment:__ Zoals een observatie maar onder gecontroleerde omstandigheden.
 
 - Manipuleren van een of meerdere cruciale voorspellende variabelen
     - soort verpakking
     - soort reclame
 - Meting van een of meerdere gedragsvariabelen
-    - Attitude tov advertentie, merk
+    - attitude tov advertentie, merk
     - risicogedrag
     - eetgedrag
 - Controle of randomisatie van andere variabelen
@@ -144,7 +145,7 @@ Inhoud van een vragenlijst
 - Heeft de vraag de juiste scope en dekt het de lading?
     - Onvolledig of unfocused
     - Onduidelijk
-    - Double-barreld (vraag die meer dan een onderwerp aanhaalt)
+    - Double-barreled (vraag die meer dan één onderwerp aanhaalt)
 - Kan en is de respondent bereid op de vraag te antwoorden?
     - Tijd
     - Voorkennis
@@ -201,7 +202,7 @@ $Y = a+bx$
 
 Te eenvoudig, meer $\neq$ beter
 
-## Fracional Root Model
+## Fractional Root Model
 
 $Y = a+bx^c$
 
@@ -295,7 +296,7 @@ waarbij
 
 - $A_j = \sum_k w_k b_{ijk}$ is de attractiveness van een product $j$ voor individu $i$.
 - $B_{ijk}$ is de mening van individu $i$ over het merk $j$ op basis van een kenmerk (bv. kwaliteit) $k$.
-- $w_k$ bepaalt hoe belangrijk een kenmer $k$ is.
+- $w_k$ bepaalt hoe belangrijk een kenmerk $k$ is.
 
 ## Shared-experience Modellen
 Response modellen gebaseerd op gedrag geobserveerd bij andere bedrijven.
@@ -333,8 +334,8 @@ Voor een advertentie campagne worden enkele dingen rekening overwogen.
 \begin{itemize}
 \item Formaat
 \begin{itemize}
-    \item Demonstratie v/product
-    \item Endorsment door een beken persoon
+    \item Demonstratie van product
+    \item Endorsement door een bekend persoon
     \item ...
 \end{itemize}
 \item Presentator
@@ -396,20 +397,20 @@ Als uitvoer krijgt men verkoop doelen en communicatie aanpakken.
 # Segmentatie & Targeting
 STP (Segmentatie, Targeting & Positioning)
 
-- __Segmentatie.__ Identificeer groepen van klanten (segmenten).
+- __Segmentatie:__ Identificeer groepen van klanten (segmenten).
     1. Marktsegmentatie
     2. Segmenten beschrijven
-- __Targeting.__ Kies een segment waaraan je wil verkopen.
+- __Targeting:__ Kies een segment waaraan je wil verkopen.
     3. Evalueren attractieve (goede) segmenten
     4. Selecteren van doel segmenten & het alloceren van middelen
     5. Vinden van de consumenten in de doelgroep
-- __Positioning.__ Plaats product in de gedachten van de klanten
-    6. Identificeer mogelijk positionerincomcepten voor elke doelgroep
-- __Approaching.__ Selecteer marketing mix die het best bij het segment past.
+- __Positioning:__ Plaats product in de gedachten van de klanten
+    6. Identificeer mogelijk positioneringsconcepten voor elke doelgroep
+- __Approaching:__ Selecteer marketing mix die het best bij het segment past.
     7. Selecteer, ontwikkel en communiceer het concept 
 
 ## Segmentatie
-__Segmentatie.__ Het opdelen van mensen in groepen zodat mensen in een groep gelijk zijn een mensen in andere groepen anders. (in ways that matter to the business and market)
+__Segmentatie.__ Het opdelen van mensen in groepen zodat mensen in een groep gelijk zijn en mensen in andere groepen anders. (in ways that matter to the business and market)
 
 > _"It only makes sense if the identified segments also respond differently to different marketing stimuli."_
 
@@ -419,13 +420,13 @@ __Segmentatie.__ Het opdelen van mensen in groepen zodat mensen in een groep gel
 #. Selecteer segmentatie variabelen.
     - __Geografische__ segmentatie
     - __Demografische__ segmentatie (Geslacht, inkomen, beroep, leeftijd)
-    - __Psychogafisch__ segmentatie (Levensstijl, persoonlijkheid, waarden)
+    - __Psychografische__ segmentatie (Levensstijl, persoonlijkheid, waarden)
     - __Gedragsmatige__ segmentatie (Gelegenheid, voordelen, gebruiksstatus, mate van gebruik, loyaliteit, houding)
 #. Selecteer een mathematische & statistische procedure om consumenten samen te nemen in segmenten.
 #. Groepeer consumenten in een vastgelegd aantal segmenten.
 
 ### Beschrijving Marktsegmenten
-Needs, wants, benefitsm solutions to problem, usage situation, usage rate
+Needs, wants, benefits, solutions to problem, usage situation, usage rate
 
 __Bases__ zijn __afhankelijke variabelen__, kenmerken die aangeven waarom segmenten verschillen.
 
@@ -438,9 +439,9 @@ Beperkte middelen -> Niet tot iedereen richten
 
 Twee strategieën
 
-- __Diversificatie__, op verschillende segmenten richten.
+- __Diversificatie:__ op verschillende segmenten richten.
     - Moeilijkheden in een segment opvangen door succes in een ander.
-- __Focus__, op 1 segment focussen.
+- __Focus:__ op 1 segment focussen.
     - Voornamelijk in zeer competitieve markten.
 
 ### Attractiviteit Segment
@@ -448,24 +449,24 @@ Table: Factoren die de aantrekkelijkheid van een segment bepalen
 
 Factor                            Uitleg, voorbeelden
 ------------------------------    ------------------------------------------------------------------
-Groote                            Market potential, current market penetration
+Grootte                           Market potential, current market penetration
 Groei                             Past growth forecasts of technology change
 Competitie                        Barriers to entry, barriers to exit, position of competitors, ability to retaliate
 Saturatie                         Gaps in the market
 Beschermbaarheid                  Patentability of products, barriers to entry
-Risco's                           Economic, political, and technological change
+Risico's                           Economic, political, and technological change
 Winstgevendheid                   Coherence with company’s strengths and image
 Relatie met andere segmenten      Synergy, cost interactions, image transfers, cannibalization
 Geschiktheid                      Entry costs, margin levels, return on investment
 ------------------------------    ------------------------------------------------------------------
 
-### Selecter doelsegmenten
+### Selecteer doelsegmenten
 ### Vinden van consumenten in de  doelgroep
 
 - Zelfselectie
     - Meest voorkomend
     - bv. winkels
-- Scoring mehtodes
+- Scoring methodes
     - Bv. bank, verzekering
 
 ## Segmentatie onderzoek
@@ -475,10 +476,10 @@ Geschiktheid                      Entry costs, margin levels, return on investme
 3. Selecteren & aggregeren respondenten
 4. Analyseren van data & segmenteren van de markt
 
-Selectie Respondent & Aggregatie, de beslissing om het product te kopen voor een eenheid wordt niet door een persoon (respondent gemaakt)
+Selectie Respondent & Aggregatie, de beslissing om het product te kopen voor een eenheid wordt niet door een persoon (respondent) gemaakt.
 
 - Wie maakt aankoopbeslissing?
-- Rol van individuen (aankoper, gebruiker, gatekeeper, finaancieel analist).
+- Rol van individuen (aankoper, gebruiker, gatekeeper, financieel analist).
 - Hoeveel respondenten per eenheid.
     - Noden verschillen
 
@@ -486,7 +487,7 @@ Segmentatie kan met behulp van verschillende methodes
 
 - Factor analyse (data reductie)
 - Cluster analyse (Segmenten vormen)
-- Discriminant analyse (Segmenten bescrhijven)
+- Discriminant analyse (Segmenten beschrijven)
 
 ## Cluster analyse
 - Maatstaf definiëren om de mate van gelijkenis tussen klanten te meten op basis van hun noden.
@@ -496,11 +497,11 @@ Segmentatie kan met behulp van verschillende methodes
 - Aantal segmenten kiezen op basis van strategische criteria, eigen oordeel en cijfers.
 - Een profiel maken van de noden van de geselecteerde segmenten.
 
-De "afstand" tussen klanten $i$ en $j$ op basis van een antal numerieke variableen $a, b, c, ..., y, z" wordt berekend zoals de afstand in de ruimte (euclidische afstand).
-$$D_{ij} = \sqrt{(a_i-a_j)+(b_i-b_j)+...+(z_i-z_j)}$$
+De "afstand" tussen klanten $i$ en $j$ op basis van een aantal numerieke variabelen $a, b, c, ..., y, z$ wordt berekend zoals de afstand in de ruimte (euclidische afstand).
+$$D_{ij} = \sqrt{(a_i-a_j)^2+(b_i-b_j)^2+...+(z_i-z_j)^2}$$
 
 __Ward's methode__ is een __hiërarchische methode__ om clusters te vinden aan de hand van deze afstand. Hiërarchisch wil zeggen dat clusters zelf in clusters zitten er moet dus een _level_ van cluster gekozen worden om met verder te gaan. Het _level_ bepaalt dus ook het aantal clusters dat we uitkomen. Het is belangrijk dat we bij het kiezen van clusters zo weinig mogelijk informatie verliezen.
-Het verlies van informatie wordt gemeten door de afstand tussen de afwijken van elke observatie met het clustergemiddelde.
+Het verlies van informatie wordt gemeten door de afstand tussen de afwijking van elke observatie met het clustergemiddelde.
 
 Als resultaat krijgen we een __dendrogram__, dit is een grafiek met individuen op de x-as, deze worden recursief per twee verbonden om een cluster te bepalen. Het  verlies van informatie wordt op de y-as geplaatst.
 
@@ -555,17 +556,17 @@ __Mapping__ is een techniek die managers toelaat om differentiatie & positioneri
 Zowel klanten als producten of merken kunnen op deze map geplaatst worden, ze zullen objecten of observaties genoemd worden.
 
 - __Vectoren__
-    - De vectoren (lijnen) op een perceptuele map representeren de attributen van de markt die gemeten worden. (bv. Comfort, sportief, pijs, ...)
+    - De vectoren (lijnen) op een perceptuele map representeren de attributen van de markt die gemeten worden. (bv. Comfort, sportief, prijs, ...)
 - __Assen__
     - De assen zijn een paar vectoren die het belangrijkste zijn en een object eenvoudig kunnen plaatsen op de map. In een eenvoudige map zijn er vaak maar 2 vectoren.
-    - Pas op positief op de as is niet altijd duidelijk of beter.
+    - Pas op: positief op de as is niet altijd duidelijk of beter.
 - __Afstand__
     - Tussen objecten bepaalt hoe hard ze verschillen op de verschillende vlakken.
-    - Tussen objecten en vectoren bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de fastand.
+    - Tussen objecten en vectoren bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de afstand.
 
 ![Een voorbeeld van een perceptuele map](./graphics/perceptuelemap.png){height=5cm}
 
-Gatten tussen de vectoren kunnen een gat in de markt zijn. Maar een map wordt meestal gebruikt om te kijken welke klanten bij welk merk passen, en zo de markt in kaart te brengen.
+Gaten tussen de vectoren kunnen een gat in de markt zijn. Maar een map wordt meestal gebruikt om te kijken welke klanten bij welk merk passen, en zo de markt in kaart te brengen.
 
 ### Factor Analyse
 Een __factor analyse__ is een lineaire combinatie van attributen. Die een score geeft aan iedere observatie gebaseerd op de attributen.
@@ -650,12 +651,12 @@ $\infty$                      Perfect elastisch       Een heel kleine veranderin
 $1<\varepsilon <\infty$       Relatief elastisch      Kleine verandering van de prijs zorgt voor een grote verandering in vraag.
 $1$                           eenheids elastisch      Een verandering van de prijs zorgt voor een even grote verandering in vraag.
 $0<\varepsilon <1$            Relatief inelastisch    Kleine verandering van de prijs zorgt voor een grote verandering in vraag.
-$0$                           Perfect inelastisch     Een heel Kleine verandering van de prijs zorgt voor een heel grote verandering in vraag.
+$0$                           Perfect inelastisch     Een heel kleine verandering van de prijs zorgt voor een heel grote verandering in vraag.
 --------------------------    ------------            ------------------------------------------------
 
 Table: De waarde van prijselasticiteit
 
-## Prijs in de de Praktijk
+## Prijs in de praktijk
 
 ### Cost-Oriented Pricing
 De kost beïnvloed de prijs omdat dit direct de hoeveelheid goederen bepaalt.
@@ -665,18 +666,18 @@ Dit is de eenvoudigste manier om de prijs te bepalen. De waarden die nodig zijn 
 ### Competitor-Oriented Pricing
 De concurrentie heeft ook een invloed op de prijs door hun acties op de markt.
 
-Er zijn twee opties ofwel word de markt prijs gekozen(going rate pricing), ofwel wordt de prijs verlaagt (competitive bidding) om competitie te creëren. 
+Er zijn twee opties: ofwel wordt de marktprijs gekozen(going rate pricing), ofwel wordt de prijs verlaagt (competitive bidding) om competitie te creëren. 
 
 ### Demand-Oriented Pricing
 De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekend dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. In andere woorden de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van of net present value (NPV) van een product voor een gebruiker.
 
 $$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Productie kost} + \text{Consumenten surplus}$$
 
-De __totale economische waarde (TEV)__ is de totale waarde die een product (bv. een machine) biedt. Deze is vaak hooger dan de verwachte waarde en dus de VIU.
+De __totale economische waarde (TEV)__ is de totale waarde die een product (bv. een machine) biedt. Deze is vaak hoger dan de verwachte waarde en dus de VIU.
 
 
 ## Prijsdiscriminatie (Price customization)
-__Prijsdiscriminatie__ is het aanpassen van de prijs aan wat en segment bereid is te betalen. Dit is een manier oom aan __ravenue management__ te doen.
+__Prijsdiscriminatie__ is het aanpassen van de prijs aan wat een segment bereid is te betalen. Dit is een manier om aan __revenue management__ te doen.
 
 ### Geografische prijsdiscriminatie
 In sommige landen is men bereid een hogere prijs te betalen voor een product dan in andere landen. Als resultaat kan de winst gemaximaliseerd worden door in die landen een hogere prijs voor een zelfde product te vragen dan in andere landen, dit is __geografische prijsdiscriminatie__.
@@ -684,19 +685,19 @@ In sommige landen is men bereid een hogere prijs te betalen voor een product dan
 ### Hoeveelheidskorting
 Als een klant meer koopt kan er efficiënter geproduceerd worden, om dit aan te moedigen kan een korting aangeboden worden bij grote hoeveelheden. Dit is __non-linear pricing__.
 
-### Prijsdiscriminatie in de Tijd
+### Prijsdiscriminatie in de tijd
 De prijs kan ook afhangen van het seizoen, de dag in de week, uur van de dag, ...
 
 
 # Nieuw Product Beslissingen 
 > _"There are 182,000 new products are introduced globally every year but 80% of them fail."_
 
-Om een nieuw product te ontwikkelen en succesvol op de markt te brengen moeten er veel beslissingen genomen worden. Zo moeten de behoefte van de consument, de adaoptie en het marktaandeel van het product voorspelt worden. 
+Om een nieuw product te ontwikkelen en succesvol op de markt te brengen moeten er veel beslissingen genomen worden. Zo moeten de behoefte van de consument, de adoptie en het marktaandeel van het product voorspelt worden. 
 
 ## Behoefte van de Consument
 Hoe kun je nu de voorkeuren van een consument bepalen? Om vervolgens het product te ontwikkelen tegen een goede kostprijs.
 
-__Conjoint analyse__ is een methode om de structuur van consumentenvoorkeuren te verstaan en te incorporeren in het prodect ontwikkelingsproces. Het laat toe om te evalueren hoe consumenten een trade-off maken tussen verschillende product attributen en levels. We willen:
+__Conjoint analyse__ is een methode om de structuur van consumentenvoorkeuren te verstaan en te incorporeren in het product ontwikkelingsproces. Het laat toe om te evalueren hoe consumenten een trade-off maken tussen verschillende product attributen en levels. We willen:
 
 - Een numerieke waarde voor het relatieve belang consumenten hechten aan attributen in een product categorie.
 - Een numerieke waarde voor het relatieve belang consumenten hechten aan elk kenmerk (level) binnen een attribuut.
@@ -711,11 +712,11 @@ We doen dit dus door een onderzoek uit te voeren waarin de respondent attributen
 ### Design de studie
 1. Selecteer relevante attributen (~6)
     - Gebaseerd op interviews, reviews, marktanalyse, ...
-    - Hoeveelheid, grote, prijs
+    - Hoeveelheid, grootte, prijs
 2. Selecteer levels voor ieder attribuut
     - bv. veel, matig, weinig, klein, groot, goedkoop, duur
 3. Maak product bundels die geëvalueerd moeten worden
-    - bv. Grote pizze met veel vlees voor 10 EUR
+    - bv. Grote pizza met veel vlees voor 10 EUR
 
 ### Verkrijg data van respondenten
 1. Design een data collectie procedure
@@ -723,7 +724,7 @@ We doen dit dus door een onderzoek uit te voeren waarin de respondent attributen
     - Bundels een score geven
 2. Kies __part-worth functies__
 
-__Part-worth functies__ zijn functies die de waarde (parth-worth) $a_{ikm}$ die een respondent $i$ geeft aan een attribuut $k$ op level $m$. 
+__Part-worth functies__ zijn functies die de waarde (part-worth) $a_{ikm}$ modelleert die een respondent $i$ geeft aan een attribuut $k$ op level $m$. 
 
 $$R_{ij} = \sum^K_{k=1} \sum^{M_K}_{m=1} a_{ikm} x_{jkm} + \varepsilon_{ij}$$
 
@@ -731,7 +732,7 @@ Waarbij
 
 - $i$ de respondent is
 - $j$ het product, dus een bundel is
-- $R_{ij}$ de score de $i$ geeft aan $j$
+- $R_{ij}$ de score die $i$ geeft aan $j$
 - $a_{ikm}$ De waarde volgens $i$ voor het attribuut $k$ op level $m$
 - $M_K$ is het aantal levels van attribuut $k$
 - $K$ is het aantal attributen
@@ -744,12 +745,12 @@ $R_{ij}$ zijn dus de resultaten van de studie en $a_{ikm}$ is wat we willen wete
 1. Segmenteer klanten op part-worth functies
     - Dus waar ze belang aan hechten
 2. Simuleer de markt
-    - Aan de hand van oa market share forcasts
+    - Aan de hand van oa market share forecasts
 3. Maak een keuze
     - We kiezen een product dat het beste past per segment
     - Men moet er wel rekening met houden dat een nieuw product ook zal concurreren met een bestaand product van hetzelfde merk dit is __cannibalisatie__.
 
-__Market share forcasts__ zullen het marktaandeel van het nieuw product voorspellen. Bijvoorbeeld aan de hand van de __maximum utility rule__. Waarbij het idee is dat een klant het product zal kiezen dat het meeste nut (utility) geeft. 
+__Market share forecasts__ zullen het marktaandeel van het nieuw product voorspellen. Bijvoorbeeld aan de hand van de __maximum utility rule__. Waarbij het idee is dat een klant het product zal kiezen dat het meeste nut (utility) geeft. 
 
 We kunnen bijvoorbeeld mensen ondervragen en zo het marktaandeel schatten met. 
 
@@ -793,9 +794,9 @@ Keuze op basis van ervaring of een checklist.
     - Informatie via andere winkels (klantenkaart, vragenlijst)
     - Of verplaatsingstijden
 - __Concurrentie__
-    - directe en indirecte concurrentie
-    - __Attractie effect __(aantrekkingskracht van gevestigde winkels "anchor stores") Klanten komen vaan naar clusters van winkels.
-    - Sommige winkel ook __complimentair__
+    - Directe en indirecte concurrentie
+    - __Attractie effect __(aantrekkingskracht van gevestigde winkels "anchor stores") Klanten komen vaak naar clusters van winkels.
+    - Sommige winkels ook __complimentair__
     - __Saturatie__ (te veel winkels van zelfde type)
 - __Kosten__
     - __Aankoop- of huurprijs__
@@ -816,7 +817,7 @@ Op basis van reeds bestaande winkels
 
 Klantenstroom wordt bepaalt door
 
-- __Vloeroppervlakte__
+- __vloeroppervlakte__
 - __afstand__
 - imago
 - parking
