@@ -131,8 +131,7 @@ Wordt meestal verzameld door onderzoeksbureaus
 Als het waarom en hoe centraal staat: 
 ‘Relevante’ (i.p.v. representatieve) personen met expertise, met bijzondere en met divergerende (uiteenlopende, eigen) ervaringen, die goed in staat zijn hun ervaring en beleving te communiceren, die ons inzichten kunnen geven
 
->**Note**: Een grappig voorbeeld van een kwalitatief onderzoek:
->https://www.youtube.com/watch?v=tVq1wgIN62E
+> **Note**: Een grappig voorbeeld van een kwalitatief onderzoek: https://www.youtube.com/watch?v=tVq1wgIN62E
 
 ### Kwantitatief onderzoek
 
@@ -278,10 +277,10 @@ Geschiktheid                    Entry costs, margin levels, return on investment
 
 ## Stap 5: Vinden van de consumenten in de doelgroep
 
-- Zelfselectie
+- Zelfselectie, de consument kiest zelf.
     - Meest voorkomend
     - bv. winkels
-- Scoring mehtodes
+- Scoring mehtodes, er wordt een voorstel gedaan.
     - Bv. bank, verzekering
 
 ## Segmentatie onderzoek
@@ -455,83 +454,58 @@ De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekend d
 
 $$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Productie kost} + \text{Consumenten surplus}$$
 
-De __totale economische waarde (TEV)__ is de totale waarde die een product (bv. een machine) biedt. Deze is vaak hooger dan de verwachte waarde en dus de VIU.
-
-
-## Prijsdiscriminatie (Price customization)
-__Prijsdiscriminatie__ is het aanpassen van de prijs aan wat en segment bereid is te betalen. Dit is een manier oom aan __ravenue management__ te doen.
-
-### Geografische prijsdiscriminatie
-In sommige landen is men bereid een hogere prijs te betalen voor een product dan in andere landen. Als resultaat kan de winst gemaximaliseerd worden door in die landen een hogere prijs voor een zelfde product te vragen dan in andere landen, dit is __geografische prijsdiscriminatie__.
-
-### Hoeveelheidskorting
-Als een klant meer koopt kan er efficiënter geproduceerd worden, om dit aan te moedigen kan een korting aangeboden worden bij grote hoeveelheden. Dit is __non-linear pricing__.
-
-### Prijsdiscriminatie in de Tijd
-De prijs kan ook afhangen van het seizoen, de dag in de week, uur van de dag, ...
-
-##TEV en VIU
-True Economic Value en Value in Use 
-
 - __VIU__: The hypothetical price for a firm’s offering at which a particular customer would be at overall economic break-even relative to the best alternative available to that customer for performing a set of functions.
 - __TEV__: Cost of the next-based alternative + value of the performance differential
  
-Zie voorbeeld in de slides
- 
 >**note**: Be sure to include all costs when doing a VIU calculation.
->(Annual) Purchase cost 
->Fabrication cost 
->Finishing cost 
->Inventory cost 
->Maintenance/Service cost
->Scrap adjustment 
->Level-of-requirement adjustment 
->Changeover cost 
->Risk premium
+> - (Annual) Purchase cost 
+> - Fabrication cost 
+> - Finishing cost 
+> - Inventory cost 
+> - Maintenance/Service cost
+> - Scrap adjustment 
+> - Level-of-requirement adjustment 
+> - Changeover cost 
+> - Risk premium
 
-### The value thermometer
+De __totale economische waarde (TEV)__ is de totale waarde die een product (bv. een machine) biedt. Deze is vaak hooger dan de verwachte waarde en dus de VIU.
 
-Waarom is de perceived value lager dan de TEV?
+De perceived value is lager dan de TEV omdat:
 
-- Unaware of the benefits of the product
-- Aware of the claimed benefits but skeptical
-- Aware and fully accept claim but not aware of its real importance
+- De klant alle voordelen niet weet
+- De voordelen wel weet maar sceptisch is
+- Niet bewust is van het echte belang
 
-$\Rightarrow$  Solution: improve the level & quality of the marketing efforts directed to the customer.
- 
-##Price Customization
+$\Rightarrow$  Solution: Verberter het level en de kwalitiet van de marketing campagnes gericht op de klant.$
+
+## Prijsdiscriminatie (Price customization)
+__Prijsdiscriminatie__ is het aanpassen van de prijs aan wat en segment bereid is te betalen. Dit is een manier oom aan __ravenue management__ te doen.
 
 - Controlling availability i.e. selectively presenting an offer to a particular group of customers but not to others (F.e. visitation & purchasing history,....)
 - Based on buyer characteristics (F.e. age, gender, location (geographic), user status,...)
 - Based on transaction characteristics (F.e. Timing, Quantity)
 - Managing the product-line offering
  
-###Non-Linear Pricing/Quantity Discounts:
-Two-part tariff:
+### Geografische prijsdiscriminatie
+In sommige landen is men bereid een hogere prijs te betalen voor een product dan in andere landen. Als resultaat kan de winst gemaximaliseerd worden door in die landen een hogere prijs voor een zelfde product te vragen dan in andere landen, dit is __geografische prijsdiscriminatie__.
+
+### Non-Linear Pricing
+Als een klant meer koopt kan er efficiënter geproduceerd worden, om dit aan te moedigen kan een korting aangeboden worden bij grote hoeveelheden. Dit is __non-linear pricing__.
+
+Ook Two-part tariff:
 
 - membership in clubs
 - fixed fee + constant variable cost
 
-Block tariff:
+### Prijsdiscriminatie in de Tijd
+De prijs kan ook afhangen van het seizoen, de dag in de week, uur van de dag, ...
 
-- quantity discount
- 
-###Temporal Price Discrimination
-- Time-of-day pricing
-- Time when purchased
-- Day of the week pricing
-- Seasonal pricing
-- …
- 
-Revenue management = the art and science of selling the right product to the right customer for the right price at the right time.
- 
-###Implementing Revenue Management:
+### Implementing Revenue Management:
 - Estimate demand for each class of service.
 - Demand arrives over time (so update demand function/remaining supply)
 - Allocate remaining space to:
     - maximize expected profitability
     - meet other criteria subject to situation specific constraints.
-
 
 
 # Market Response Modellen
@@ -710,32 +684,52 @@ ADCAD (ADvertising Communication Approach Design) is een systeem gebaseerd op re
 
 Voor een advertentie campagne worden enkele dingen rekening overwogen.
 
-- Formaat:
-    - Demonstratie v/product 
-    -  Endorsment door een beken persoon  
-    - ...
-- Presentator
-    - Leeftijd
-    - Geslacht
-    - Herkenbaarheid
-    -  ...
-- Presentatie technieken
-    - Scenario
-    - Humor
-    - Hidden-camera
-    - ...
-- Emotie
-    - Woede
-    - Angst
-    - Optimisme
-    - Vertrouwen
-    - ...
-- Voordelen
-    - Prijs
-    - Waarde
-    - Veiligheid
-    - Plezier
-    - ...
+\begin{minipage}[t]{0.5\linewidth}\centering
+\begin{itemize}
+\item Formaat
+\begin{itemize}
+    \item Demonstratie van product
+    \item Endorsement door een bekend persoon
+    \item ...
+\end{itemize}
+\item Presentator
+\begin{itemize}
+    \item Leeftijd
+    \item Geslacht
+    \item Herkenbaarheid
+    \item ...
+\end{itemize}
+\item Presentatie technieken
+\begin{itemize}
+    \item Slogan, deuntje
+    \item Scenario
+    \item Humor
+    \item Hidden-camera
+    \item ...
+\end{itemize}
+\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.5\linewidth}\centering
+\begin{itemize}
+\item Emotie
+\begin{itemize}
+    \item Woede
+    \item Angst
+    \item Optimisme
+    \item Vertrouwen
+    \item ...
+\end{itemize}
+\item Voordelen
+\begin{itemize}
+    \item Prijs
+    \item Waarde
+    \item Veiligheid
+    \item Plezier
+    \item ...
+\end{itemize}
+\end{itemize}
+
+\end{minipage}
    
 __Voorbeeld van Regels__
 ```
