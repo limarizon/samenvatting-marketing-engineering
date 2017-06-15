@@ -1,6 +1,7 @@
-# Samenvatting Marketin Engineering (_B-KUL-D0H54a-1617_)
-Door Robin Vanhove
-Juni 2017
+# Samenvatting Marketing Engineering (_B-KUL-D0H54a-1617_)
+Door Robin Vanhove & Sjaan Vandebeek
+
+_Juni 2017_
 
 Suggesties en pull requests welkom
 
