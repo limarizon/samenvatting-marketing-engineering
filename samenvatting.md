@@ -199,7 +199,8 @@ Inhoud van een vragenlijst
     - Wees consistent qua personalisatie
     - Bevat de vraag correcte alternatieven
     
-# Segmentatie
+# Segmentatie & Targeting
+## Segmentatie
 
 __Segmentatie.__ Het opdelen van mensen in groepen zodat mensen in een groep gelijk zijn een mensen in andere groepen anders. (in ways that matter to the business and market)
 
@@ -222,7 +223,7 @@ Stappenplan voor STP:
     - Stap 6: Identificeer mogelijk positionerincomcepten voor elke doelgroep
     - Stap 7: Selecteer, ontwikkel en communiceer het gekozen concept
 
-## Stap 1: Marktsegmentatie
+### Stap 1: Marktsegmentatie
 
 1. beweegredenen: Waarom segmenteren we de markt?
 2. Selecteer segmentatie variabelen.
@@ -234,7 +235,7 @@ Stappenplan voor STP:
 3. Selecteer een mathematische & statistische procedure om consumenten samen te nemen in segmenten.
 4. Groepeer consumenten in een vastgelegd aantal segmenten.
 
-## Stap 2: Beschrijving Marktsegmenten
+### Stap 2: Beschrijving Marktsegmenten
 
 - __Bases__: afhankelijke variabelen (kenmerken die aangeven waarom segmenten verschillen)
     - Ex. Needs, Wants, Benefits, Solutions to problems, Usage situation, Usage rate, Size, Industry
@@ -242,7 +243,7 @@ Stappenplan voor STP:
     - Ex. Demographics, Psychographics, behavior, Decision making, Media patterns
 
 
-# Targeting
+## Targeting
 Beperkte middelen -> Niet tot iedereen richten
 
 > -> Keuze maken en op beperkte doelgroep richten.
@@ -254,7 +255,7 @@ Twee strategieën
 - __Focus__, op 1 segment focussen.
     - Voornamelijk in zeer competitieve markten.
 
-##Stap 3: Evalueren attractieve segmenten
+### Stap 3: Evalueren attractieve segmenten
 Table: Factoren die de aantrekkelijkheid van een segment bepalen
 
 Factor                          Uitleg, voorbeelden
@@ -271,11 +272,11 @@ Geschiktheid                    Entry costs, margin levels, return on investment
 ------------------------        -----------------------------------------------
 
 
-## Stap 4: Selecteren van doel segmenten
+### Stap 4: Selecteren van doel segmenten
 
 ![Soorten targeting](graphics/targeting.jpg)
 
-## Stap 5: Vinden van de consumenten in de doelgroep
+### Stap 5: Vinden van de consumenten in de doelgroep
 
 - Zelfselectie, de consument kiest zelf.
     - Meest voorkomend
@@ -535,6 +536,9 @@ Soorten Response Models:
 
 ## Geaggregeerde Response Modellen
 
+
+![Fenomenen \label{fig:f}](./graphics/fenomenen.png)
+
 ---    --------------------------------------------------------------------------------------------
 P1     Output is nul wanneer input nul is
 P2     Output-input verband is lineair
@@ -547,8 +551,6 @@ P8     Output daalt als bepaalde input-niveau overschreden is (supersatuaratie)
 ---    --------------------------------------------------------------------------------------------
 
 Table: Verklaring bij figuur \ref{fig:f}
-
-![Fenomenen \label{fig:f}](./graphics/fenomenen.png)
 
 ## Lineair Model
 
