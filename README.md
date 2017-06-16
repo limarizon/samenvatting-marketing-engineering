@@ -9,7 +9,9 @@ Suggesties en pull requests welkom
 Samenvatting van de slides die relevant zijn, dus niet de gastcolleges.
 
 # How to compile
-Gebruik [pandoc](http://pandoc.org/)
+Normaalgezien bevat [de pdf](samenvatting.pdf) de laatst gecompileerde versie.
+
+Om nieuwe aanpssingen te compileren gebruik [pandoc](http://pandoc.org/)
 
 ```sh
 $ pandoc samenvatting.md -o samenvatting.pdf
