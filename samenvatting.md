@@ -477,6 +477,7 @@ $$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Consumenten su
 - __TEV__: Cost of the next-based alternative + value of the performance differential
  
 >**note**: Be sure to include all costs when doing a VIU calculation.
+
 > - (Annual) Purchase cost 
 > - Fabrication cost 
 > - Finishing cost 
