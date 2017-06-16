@@ -14,3 +14,8 @@ Gebruik [pandoc](http://pandoc.org/)
 ```sh
 $ pandoc samenvatting.md -o samenvatting.pdf
 ```
+
+# License
+Iedereen is vrij om dit bestand (voor niet commerciele redenen) aan te passen en te delen. Maar het resultaat moet onder de zelfde licentie geldeeld worden.
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
