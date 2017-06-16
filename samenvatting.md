@@ -321,7 +321,7 @@ Het verlies van informatie wordt gemeten door de afstand tussen de afwijken van 
 
 Als resultaat krijgen we een __dendrogram__, dit is een grafiek met individuen op de x-as, deze worden recursief per twee verbonden om een cluster te bepalen. Het  verlies van informatie wordt op de y-as geplaatst.
 
-Om een optimaal aantal clusters te kiezen kan je een rechte door de dendrogram trekken waar de afstand tussen de het vormen van de clusters klein is (dus weinig verlies). Een voorbeeld vindt je in onderstaande figuur.
+Om een optimaal aantal clusters te kiezen kan je een rechte door de dendrogram trekken waar de afstand tussen de te vormen clusters klein is (dus weinig verlies). Een voorbeeld vindt je in onderstaande figuur.
 
 ![Een voorbeeld van een dendrogram \label{fig:dend}](./graphics/dendrogram.png){height=5cm}
 
@@ -329,7 +329,7 @@ Om een optimaal aantal clusters te kiezen kan je een rechte door de dendrogram t
 
 Een __disciminant analyse__ is het afleiden van een lineaire combinatie onafhankelijke variabelen op een manier dat de resulterende combinatie in staat is zo goed mogelijk te discrimineren tussen twee of meer a priori gedefinieerde groepen.
 
-Of in mensen taal, de discriminant is een functie om voor een object (observatie, individu, klant) te bepalen in tot welke cluster het behoort.
+Of in mensen taal, de discriminant is een functie om voor een object (observatie, individu, klant) te bepalen tot welke cluster het behoort.
 
 De discriminant functie is $Z = \sum w_ix_i$ met
 
@@ -403,7 +403,7 @@ __Gebruik__ van mapping
 - Visueel de impact van een communicatie programma bepalen
 - ...
 
-__Voorkeur -> Keuze__
+__Voorkeur $\Rightarrow$ Keuze ($\Rightarrow$ Marktaandeel)__
 
 - Eerste keuze
     - Klant kiest merk met beste attributen
