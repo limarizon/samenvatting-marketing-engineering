@@ -11,6 +11,11 @@ header-includes:
     \usepackage[dutch]{babel}
     \usepackage{graphicx}
     \usepackage{subcaption}
+    \usepackage[
+	type={CC},
+	modifier={by-nc-sa},
+	version={4.0},
+    ]{doclicense}
 ---
 
 
@@ -18,6 +23,12 @@ header-includes:
 
 Deze samenvatting werd gemaakt voor het OPO Marketing Engineering (B-KUL-D0H54a-1617).
 Er werd vooral gebruik gemaakt van de slides, en de structuur van de slides word dus voor het grootste deel gevolgd.
+
+Voor verbeteringen en uitbreidingen kan je terecht op https://github.com/RobinVanhove/samenvatting-marketing-engineering
+
+\vfill
+\doclicenseThis
+\clearpage
 
 # Intro
 Hoe Kunnen we de juiste beslissingen maken?
@@ -452,21 +463,30 @@ Er zijn twee opties ofwel wordt de markt prijs gekozen (going rate pricing), ofw
 ### Demand-Oriented Pricing
 De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekent dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. In andere woorden de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van of net present value (NPV) van een product voor een gebruiker.
 
-$$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Productie kost} + \text{Consumenten surplus}$$
+$$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Consumenten surplus}$$
 
 - __VIU__: The hypothetical price for a firm’s offering at which a particular customer would be at overall economic break-even relative to the best alternative available to that customer for performing a set of functions.
 - __TEV__: Cost of the next-based alternative + value of the performance differential
  
 >**note**: Be sure to include all costs when doing a VIU calculation.
-> - (Annual) Purchase cost 
-> - Fabrication cost 
-> - Finishing cost 
-> - Inventory cost 
-> - Maintenance/Service cost
-> - Scrap adjustment 
-> - Level-of-requirement adjustment 
-> - Changeover cost 
-> - Risk premium
+
+\begin{minipage}[t]{0.5\linewidth}\centering
+\begin{itemize}
+\item (Annual) Purchase cost 
+\item Fabrication cost 
+\item Finishing cost 
+\item Inventory cost 
+\item Maintenance/Service cost
+\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.5\linewidth}\centering
+\begin{itemize}
+\item Scrap adjustment 
+\item Level-of-requirement adjustment 
+\item Changeover cost 
+\item Risk premium
+\end{itemize}
+\end{minipage}
 
 De __totale economische waarde (TEV)__ is de totale waarde die een product (bv. een machine) biedt. Deze is vaak hoger dan de verwachte waarde en dus de VIU.
 
