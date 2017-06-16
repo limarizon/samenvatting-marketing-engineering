@@ -632,7 +632,9 @@ __Subjectieve (judgmental) calibratie__ wordt toegepast op basis enkele vragen.
 ## Uitbreiding
 
 ### Meer variabelen
-De nieuwe variabelen kunnen opgeteld (additief model) of vermenigvuldigd worden (multiplicatief model).
+De nieuwe variabelen kunnen opgeteld (additief model) of vermenigvuldigd worden (multiplicatief model) of beide (multiplicatief + additief model).
+
+> **note**: Het multiplicatieve model wordt zeer vaak gebruikt in marketing
 
 ### Dynamische effecten
 
@@ -665,7 +667,7 @@ De nieuwe variabelen kunnen opgeteld (additief model) of vermenigvuldigd worden 
     \label{fig:de}
 \end{figure}
 
-### Marktaandeel (Competitie)
+### Marktaandeel ($\rightarrow$ Competitie)
 
 $$ M_i = \frac{A_i}{A_1 + A_2 + ... + A_n}$$
 
@@ -685,11 +687,11 @@ waarbij
 - $B_{ijk}$ is de mening van individu $i$ over het merk $j$ op basis van een kenmerk (bv. kwaliteit) $k$.
 - $w_k$ bepaalt hoe belangrijk een kenmer $k$ is.
 
-## Shared-experience Modellen
+## Shared Experience Modellen
 Response modellen gebaseerd op gedrag geobserveerd bij andere bedrijven.
 
 ### PIMS Model
-Profit Impact of Marketing strategy
+= Profit Impact of Marketing strategy
 
 Ervaringen van een diverse groep succesvolle en minder succesvolle bedrijven geven een nuttig inzicht in de factoren die een rol spelen in de winstgevendheid van een bedrijf. 
 
@@ -716,7 +718,7 @@ ADCAD (ADvertising Communication Approach Design) is een systeem gebaseerd op re
 - ...
 
 
-Voor een advertentie campagne worden enkele dingen rekening overwogen.
+Voor een advertentie campagne worden enkele dingen in rekening genomen.
 
 \begin{minipage}[t]{0.5\linewidth}\centering
 \begin{itemize}
@@ -794,12 +796,12 @@ Heel belangrijk, want:
 Mogelijke winkellocaties zijn
 
 - Een geïsoleerde winkel
-- Ongepland Business district
+- Ongepland Business District
     - Centraal
     - Secundair
     - Buurt
     - String
-- Gepland
+- Gepland BD
     - Winkelcentrum
 
 ![Business districten](./graphics/bd.png){height=5cm}
@@ -851,7 +853,7 @@ Met de gedachten dat:
 -  Een klant minder snel ver gaat
 -  Een klant zal sneller naar een grotere winkel gaan
 
-De kans wordt berekend met de ratio van het winkeloppervlak tov de reistijd van iedere winkel te berekenen. Door dit ratio te vergelijken met dat van de andere winkels wordt de kans gevonden.
+De kans wordt berekend met de ratio van het winkeloppervlak t.o.v. de reistijd van iedere winkel te berekenen. Door dit ratio te vergelijken met dat van de andere winkels wordt de kans gevonden.
 
 $$P_{ij} = \frac{
     \frac{S_j}{T_{ij}^\lambda}
@@ -963,7 +965,7 @@ $R_{ij}$ zijn dus de resultaten van de studie en $a_{ikm}$ is wat we willen wete
     - Aan de hand van oa market share forcasts
 3. Maak een keuze
     - We kiezen een product dat het beste past per segment
-    - Men moet er wel rekening met houden dat een nieuw product ook zal concurreren met een bestaand product van hetzelfde merk dit is __cannibalisatie__.
+    - Men moet er wel rekening met houden dat een nieuw product ook zal concurreren met een bestaand product van hetzelfde merk, dit is __cannibalisatie__.
 
 __Market share forcasts__ zullen het marktaandeel van het nieuw product voorspellen. Bijvoorbeeld aan de hand van de __maximum utility rule__. Waarbij het idee is dat een klant het product zal kiezen dat het meeste nut (utility) geeft. 
 
