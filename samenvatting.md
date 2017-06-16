@@ -101,8 +101,8 @@ Consumenten Panel in FMCG(Fast Moving Consumer Goods):
     - Wat kopen huishoudens van een bepaald merk nog meer binnen die categorie?
     - Wat zijn de effecten van promoties, zijn er verschillen per merk of per retailer?
 - Combinatie met andere zaken die ons van het huishouden bekend zijn:
-    - Mediaconsumptie $\Rightarrow$ optimalisatie Mediaplannen
-    - Gevoeligheid voor innovaties $\Rightarrow$ beoordeling introductie
+    - Mediaconsumptie $\rightarrow$ optimalisatie Mediaplannen
+    - Gevoeligheid voor innovaties $\rightarrow$ beoordeling introductie
 
 >**note**: Wat is het toegevoegde waarde van een FMCG ten opzichte van een consumer panel?
 
@@ -255,9 +255,9 @@ Stappenplan voor STP:
 
 
 ## Targeting
-Beperkte middelen -> Niet tot iedereen richten
+Beperkte middelen $\rightarrow$ Niet tot iedereen richten
 
-> -> Keuze maken en op beperkte doelgroep richten.
+> $\rightarrow$ Keuze maken en op beperkte doelgroep richten.
 
 Twee strategieën
 
@@ -405,7 +405,7 @@ Ideaal 2 dimensies(factoren) waarbij de twee factoren orthogonaal zijn, en dus h
 
 ### Gebruik van Mapping
 
-__Gebruik__ van mapping
+__Gebruik van mapping__
 
 - Consumentenpercepties van je product in verhouding tot andere producten
 - Sterktes en zwaktes identificeren
@@ -414,7 +414,7 @@ __Gebruik__ van mapping
 - Visueel de impact van een communicatie programma bepalen
 - ...
 
-__Voorkeur $\Rightarrow$ Keuze ($\Rightarrow$ Marktaandeel)__
+__Voorkeur $\rightarrow$ Keuze ($\rightarrow$ Marktaandeel)__
 
 - Eerste keuze
     - Klant kiest merk met beste attributen
@@ -444,14 +444,6 @@ $\varepsilon_\text{prijs}$    Type                    Verklaring
 $\infty$                      Perfect elastisch       Heel kleine verandering van de prijs zorgt voor een heel grote verandering in vraag.
 $1<\varepsilon <\infty$       Relatief elastisch      Kleine verandering van de prijs zorgt voor een grote verandering in vraag.
 $1$                           eenheids elastisch      Verandering van de prijs zorgt voor een even grote verandering in vraag.
-$0<\varepsilon <1$            Relatief inelastisch    Kleine verandering van de prijs zorgt voor weinig verandering in vraag.
-$0$                           Perfect inelastisch     Heel kleine verandering van de prijs zorgt voor een zeer kleine verandering in vraag.
---------------------------    ------------            ------------------------------------------------
-
-Je zou de laatste types ook kunnen formuleren als volgt:
-
-$\varepsilon_\text{prijs}$    Type                    Verklaring
---------------------------    ------------            ------------------------------------------------
 $0<\varepsilon <1$            Relatief inelastisch    Gorte verandering van de prijs zorgt voor een kleine verandering in vraag.
 $0$                           Perfect inelastisch     Een verandering van de prijs zorgt voor geen (of een zeer kleine) verandering in vraag.
 --------------------------    ------------            ------------------------------------------------
@@ -507,25 +499,27 @@ De perceived value is lager dan de TEV omdat:
 $\Rightarrow$  Solution: Verbeter het level en de kwaliteit van de marketing campagnes gericht op de klant.
 
 ## Prijsdiscriminatie (Price customization)
-__Prijsdiscriminatie__ is het aanpassen van de prijs aan wat en segment bereid is te betalen. Dit is een manier om aan __ravenue management__ te doen.
+__Prijsdiscriminatie__ is het aanpassen van de prijs aan wat en segment bereid is te betalen. Dit is een manier om aan __revenue management__ te doen.
 
-- Controlling availability i.e. selectively presenting an offer to a particular group of customers but not to others (F.e. visitation & purchasing history,....)
-- Based on buyer characteristics (F.e. age, gender, location (geographic), user status,...)
-- Based on transaction characteristics (F.e. Timing, Quantity)
+> **Revenue management**: the art and science of selling the right product to the right customer for the right price at the right time.
+
+- Controlling availability i.e. selectively presenting an offer to a particular group of customers but not to others (f.e. visitation & purchasing history,....)
+- Based on buyer characteristics (f.e. age, gender, location (geographic), user status,...)
+- Based on transaction characteristics (f.e. Timing, Quantity)
 - Managing the product-line offering
  
 ### Geografische prijsdiscriminatie
-In sommige landen is men bereid een hogere prijs te betalen voor een product dan in andere landen. Als resultaat kan de winst gemaximaliseerd worden door in die landen een hogere prijs voor een zelfde product te vragen dan in andere landen, dit is __geografische prijsdiscriminatie__.
+In sommige landen is men bereid een hogere prijs te betalen voor een product dan in andere landen. Als resultaat kan de winst gemaximaliseerd worden door in die landen een hogere prijs voor eenzelfde product te vragen dan in andere landen, dit is __geografische prijsdiscriminatie__.
 
 ### Non-Linear Pricing
-Als een klant meer koopt kan er efficiënter geproduceerd worden, om dit aan te moedigen kan een korting aangeboden worden bij grote hoeveelheden. Dit is __non-linear pricing__.
+Als een klant meer koopt kan er efficiënter geproduceerd worden, om dit aan te moedigen kan een korting aangeboden worden bij grote hoeveelheden. Dit is __Block tariff__ of __quantity discount__.
 
-Ook Two-part tariff:
+Ook __Two-part tariff__:
 
 - membership in clubs
 - fixed fee + constant variable cost
 
-### Prijsdiscriminatie in de Tijd
+### Prijsdiscriminatie in de tijd
 De prijs kan ook afhangen van het seizoen, de dag in de week, uur van de dag, ...
 
 ### Implementing Revenue Management:
