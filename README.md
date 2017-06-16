@@ -24,6 +24,7 @@ Bedankt aan de volgende versie voor hun bijdragen.
 - Marnik
 - Marnicq 
 - Simme 
+- Wouter 
 
 # License [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 Iedereen is vrij om dit bestand (voor niet commerciele redenen) aan te passen en te delen. Maar het resultaat moet onder dezelfde licentie gedeeld worden.

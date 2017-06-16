@@ -28,7 +28,7 @@ Voor verbeteringen en uitbreidingen kan je terecht op
 
 >https://github.com/RobinVanhove/samenvatting-marketing-engineering
 
-Bedankt aan Marnik, Marnicq en Simme voor hun bijdragen.
+Bedankt aan Marnik, Marnicq, Simme en Wouter voor hun bijdragen.
 
 \vfill
 \doclicenseThis
