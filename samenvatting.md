@@ -380,7 +380,7 @@ Zowel klanten als producten of merken kunnen op deze map geplaatst worden, ze zu
     - Pas op positief op de as is niet altijd duidelijk of beter.
 - __Afstand__
     - Tussen objecten: bepaalt hoe hard ze verschillen op de verschillende vlakken.
-    - Tussen objecten en vectoren: bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de fastand.
+    - Tussen objecten en vectoren: bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de afstand.
 
 ![Een voorbeeld van een perceptuele map](./graphics/perceptuelemap.png){height=5cm}
 
@@ -856,7 +856,7 @@ Veel toepassingen in de marketing
 - ...
 
 ### Logit Model
-De kans dat $y=1$ wordt bepaalt door een aantal beschrijvende variabelen.
+De kans dat $y=1$ wordt bepaald door een aantal beschrijvende variabelen.
 
 $$P(y=1|x) = \frac{
 e^{\beta_0+\beta_1x_1+...+\beta_kx_k}
