@@ -426,17 +426,24 @@ De vraag en de winst van ons product zal bepaalt worden door de __prijs__ ervan.
 
 ## Prijs Elasticiteit
 __Prijs elasticiteit.__ het ratio waarmee de vraag stijgt of daalt in verhouding met de prijs.
-$$\varepsilon_\text{prijs} = \frac{\Delta Q/Q}{\Delta P/P}$$
+$$\varepsilon_\text{prijs} = \frac{\Delta Q/Q}{\Delta P/P} = \frac{\Delta Q}{\Delta P} \frac{P}{Q} $$
 
 $\varepsilon_\text{prijs}$    Type                    Verklaring
 --------------------------    ------------            ------------------------------------------------
-$\infty$                      Perfect elastisch       Een heel kleine verandering van de prijs zorgt voor een heel grote verandering in vraag.
+$\infty$                      Perfect elastisch       Heel kleine verandering van de prijs zorgt voor een heel grote verandering in vraag.
 $1<\varepsilon <\infty$       Relatief elastisch      Kleine verandering van de prijs zorgt voor een grote verandering in vraag.
-$1$                           eenheids elastisch      Een verandering van de prijs zorgt voor een even grote verandering in vraag.
+$1$                           eenheids elastisch      Verandering van de prijs zorgt voor een even grote verandering in vraag.
 $0<\varepsilon <1$            Relatief inelastisch    Kleine verandering van de prijs zorgt voor weinig verandering in vraag.
-$0$                           Perfect inelastisch     Een heel kleine verandering van de prijs zorgt voor een zeer kleine verandering in vraag.
+$0$                           Perfect inelastisch     Heel kleine verandering van de prijs zorgt voor een zeer kleine verandering in vraag.
 --------------------------    ------------            ------------------------------------------------
 
+Je zou de laatste types ook kunnen formuleren als volgt:
+
+$\varepsilon_\text{prijs}$    Type                    Verklaring
+--------------------------    ------------            ------------------------------------------------
+$0<\varepsilon <1$            Relatief inelastisch    Gorte verandering van de prijs zorgt voor een kleine verandering in vraag.
+$0$                           Perfect inelastisch     Een verandering van de prijs zorgt voor geen (of een zeer kleine) verandering in vraag.
+--------------------------    ------------            ------------------------------------------------
 
 ## Prijs in de de Praktijk
 
@@ -448,7 +455,7 @@ Dit is de eenvoudigste manier om de prijs te bepalen. De waarden die nodig zijn 
 ### Competitor-Oriented Pricing
 De concurrentie heeft ook een invloed op de prijs door hun acties op de markt.
 
-Er zijn twee opties ofwel word de markt prijs gekozen(going rate pricing), ofwel wordt de prijs verlaagt (competitive bidding) om competitie te creëren. 
+Er zijn twee opties ofwel word de markt prijs gekozen (going rate pricing), ofwel wordt de prijs verlaagt (competitive bidding) om competitie te creëren. 
 
 ### Demand-Oriented Pricing
 De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekend dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. In andere woorden de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van of net present value (NPV) van een product voor een gebruiker.
@@ -477,7 +484,7 @@ De perceived value is lager dan de TEV omdat:
 - De voordelen wel weet maar sceptisch is
 - Niet bewust is van het echte belang
 
-$\Rightarrow$  Solution: Verberter het level en de kwalitiet van de marketing campagnes gericht op de klant.$
+$\Rightarrow$  Solution: Verberter het level en de kwalitiet van de marketing campagnes gericht op de klant.
 
 ## Prijsdiscriminatie (Price customization)
 __Prijsdiscriminatie__ is het aanpassen van de prijs aan wat en segment bereid is te betalen. Dit is een manier oom aan __ravenue management__ te doen.
