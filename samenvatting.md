@@ -336,6 +336,9 @@ Om een optimaal aantal clusters te kiezen kan je een rechte door de dendrogram t
 
 ![Een voorbeeld van een dendrogram \label{fig:dend}](./graphics/dendrogram.png){height=5cm}
 
+### Standaardiseren
+Als de te onderzoeken data in vershillende eenheden is weergegeven, moet de data eerst genormaliseerd worden. Dit doet men door de waarde af te trekken met de gemiddelde waarde en gedeeld worden door de standaardeviatie. Er moet wel opgepast worden om data te standaardiseren, sommige data zoals de output van de conjoint analyse. Dit zal dan belangrijke data verwijderen en daardoor zal een verkeerde conclusie worden getrokken.
+
 ## Discriminant analyse
 
 Een __disciminant analyse__ is het afleiden van een lineaire combinatie onafhankelijke variabelen op een manier dat de resulterende combinatie in staat is zo goed mogelijk te discrimineren tussen twee of meer a priori gedefinieerde groepen.
