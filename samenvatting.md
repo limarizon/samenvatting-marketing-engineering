@@ -534,7 +534,7 @@ De prijs kan ook afhangen van het seizoen, de dag in de week, uur van de dag, ..
 
 
 # Market Response Modellen
-Is de bouwsteen van een beslissingsmodel. Zorgt ervoor dat het maken van beslissingen systematisch kan. Vereist het expliciet maken van
+Is de bouwsteen van een beslissingsmodel. Zorgt ervoor dat het maken van beslissingen systematisch kan. Vereist het expliciet maken van:
 
 - Inputs
 - Response Model
@@ -596,8 +596,10 @@ Stijgende of dalende meeropbrengsten (afhankelijk van b)
 
 $Y=a(1-e^{-bx}) + c$ 
 
-$a+c$ is de bovengrens (saturatie)
+$a+c$ is de bovengrens (saturatie)\newline
 $c$ is de ondergrens
+
+\pagebreak
 
 ## ADBUDG Model
 
@@ -606,21 +608,22 @@ $Y=b+(a-b)\frac{X^c}{d+X^c}$
 - $0<C<1$ de functie is concaaf
 - $C>1$ de functie is S-shaped
 - $b$ is de ondergrens
-- $a$ bovengrens (saturatie)
+- $a$ is de bovengrens (saturatie)
 
 Wordt vaak gebruikt om response op reclame effort te modeleren. 
 Een goed model voor subjectieve calibratie.
 
 ## Calibratie
+
 __Calibratie__ is het toewijzen van goede waarden voor de parameters in het model.
 
 __Subjectieve (judgmental) calibratie__ wordt toegepast op basis enkele vragen.
  
-> Wat is huidig niveau van reclame en verkoop
-> Wat is de verkoop als de hoeveelheid advertenties = 0?
-> Wat is de verkoop als de hoeveelheid advertenties daalt met 50%?
-> Wat is de verkoop als de hoeveelheid advertenties stijgt met 50%?
-> Wat is de verkoop als de hoeveelheid advertenties = $\infty$?
+> Wat is huidig niveau van reclame en verkoop\newline
+> Wat is de verkoop als de hoeveelheid advertenties = 0?\newline
+> Wat is de verkoop als de hoeveelheid advertenties daalt met 50%?\newline
+> Wat is de verkoop als de hoeveelheid advertenties stijgt met 50%?\newline
+> Wat is de verkoop als de hoeveelheid advertenties = $\infty$?\newline
 
 ## Uitbreiding
 
@@ -629,7 +632,7 @@ De nieuwe variabelen kunnen opgeteld (additief model) of vermenigvuldigd worden 
 
 ### Dynamische effecten
 
-\begin{figure}
+\begin{figure}[!h]
     \centering
     \begin{subfigure}[b]{0.3\textwidth}
         \includegraphics[width=\textwidth]{./graphics/DEmarketingEffort.png}
@@ -657,6 +660,7 @@ De nieuwe variabelen kunnen opgeteld (additief model) of vermenigvuldigd worden 
     \caption{Investering in marketing en gevolgen in verkoop}
     \label{fig:de}
 \end{figure}
+
 ### Marktaandeel (Competitie)
 
 $$ M_i = \frac{A_i}{A_1 + A_2 + ... + A_n}$$
