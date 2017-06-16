@@ -433,14 +433,6 @@ $\varepsilon_\text{prijs}$    Type                    Verklaring
 $\infty$                      Perfect elastisch       Heel kleine verandering van de prijs zorgt voor een heel grote verandering in vraag.
 $1<\varepsilon <\infty$       Relatief elastisch      Kleine verandering van de prijs zorgt voor een grote verandering in vraag.
 $1$                           eenheids elastisch      Verandering van de prijs zorgt voor een even grote verandering in vraag.
-$0<\varepsilon <1$            Relatief inelastisch    Kleine verandering van de prijs zorgt voor weinig verandering in vraag.
-$0$                           Perfect inelastisch     Heel kleine verandering van de prijs zorgt voor een zeer kleine verandering in vraag.
---------------------------    ------------            ------------------------------------------------
-
-Je zou de laatste types ook kunnen formuleren als volgt:
-
-$\varepsilon_\text{prijs}$    Type                    Verklaring
---------------------------    ------------            ------------------------------------------------
 $0<\varepsilon <1$            Relatief inelastisch    Gorte verandering van de prijs zorgt voor een kleine verandering in vraag.
 $0$                           Perfect inelastisch     Een verandering van de prijs zorgt voor geen (of een zeer kleine) verandering in vraag.
 --------------------------    ------------            ------------------------------------------------
