@@ -20,13 +20,13 @@ Deze samenvatting werd gemaakt voor het OPO Marketing Engineering (B-KUL-D0H54a-
 Er werd vooral gebruik gemaakt van de slides, en de structuur van de slides word dus voor het grootste deel gevolgd.
 
 # Intro
-Hoe Kunnen we een juiste beslissingen maken?
+Hoe Kunnen we de juiste beslissingen maken?
 
 Juiste balans vinden tussen:
 Ervaring, gevoel $\leftrightarrow$ Data overload
 $\Rightarrow$ __Beslissingsmodellen__
 
-Een model is een vereenvoudigde weergave/voorstelling van de realiteit die het makkelijker maakt om een specifiekprobleem te bestuderen dan de realiteit zelf. Modellen zijn de kern van marketing engineering.
+Een model is een vereenvoudigde weergave/voorstelling van de realiteit die het makkelijker maakt om een specifiekprobleem te bestuderen dan de realiteit zelf. Modellen zijn de __kern__ van marketing engineering.
 
 ~~Data~~ $\rightarrow$ Information $\rightarrow$ Insights $\rightarrow$ Decisions $\rightarrow$  ~~Implementation~~
 
@@ -44,7 +44,7 @@ Soorten data:
 Zijn resultaten van eerder onderzoek (met een ander doel) die relevant zijn. Dit kunnen gegevens zijn zoals: verkopen per regio, per klant, per product, klachten, rapporten, ...
 
 - Publieke bronnen: kamer van koophandel, vakbonden, andere organisaties
-- Niet Publiek bronnen: Syndicated services (bv. Nielsen)
+- Niet publieke bronnen: Syndicated services (bv. Nielsen)
 
 Op externe data is een kwaliteitscontrole nodig:
 
@@ -90,8 +90,8 @@ Consumenten Panel in FMCG(Fast Moving Consumer Goods):
     - Wat kopen huishoudens van een bepaald merk nog meer binnen die categorie?
     - Wat zijn de effecten van promoties, zijn er verschillen per merk of per retailer?
 - Combinatie met andere zaken die ons van het huishouden bekend zijn:
-    - Mediaconsumptie optimalisatie Mediaplannen
-    - Gevoeligheid voor innovaties beoordeling introductie
+    - Mediaconsumptie $\Rightarrow$ optimalisatie Mediaplannen
+    - Gevoeligheid voor innovaties $\Rightarrow$ beoordeling introductie
 
 >**note**: Wat is het toegevoegde waarde van een FMCG ten opzichte van een consumer panel?
 
@@ -314,7 +314,7 @@ Segmentatie kan met behulp van verschillende methodes
 - Een profiel maken van de noden van de geselecteerde segmenten.
 
 De "afstand" tussen klanten $i$ en $j$ op basis van een antal numerieke variableen $a, b, c, ..., y, z" wordt berekend zoals de afstand in de ruimte (euclidische afstand).
-$$D_{ij} = \sqrt{(a_i-a_j)+(b_i-b_j)+...+(z_i-z_j)}$$
+$$D_{ij} = \sqrt{(a_i-a_j)^2+(b_i-b_j)^2+...+(z_i-z_j)^2}$$
 
 __Ward's methode__ is een __hiërarchische methode__ om clusters te vinden aan de hand van deze afstand. Hiërarchisch wil zeggen dat clusters zelf in clusters zitten er moet dus een _level_ van cluster gekozen worden om met verder te gaan. Het _level_ bepaalt dus ook het aantal clusters dat we uitkomen. Het is belangrijk dat we bij het kiezen van clusters zo weinig mogelijk informatie verliezen.
 Het verlies van informatie wordt gemeten door de afstand tussen de afwijken van elke observatie met het clustergemiddelde.
