@@ -567,6 +567,7 @@ Soorten Response Models:
 
 ![Fenomenen \label{fig:f}](./graphics/fenomenen.png)
 
+
 ---    --------------------------------------------------------------------------------------------
 P1     Output is nul wanneer input nul is
 P2     Output-input verband is lineair
@@ -598,12 +599,12 @@ $Y=ae^{bx}; x>0$
 
 Stijgende of dalende meeropbrengsten (afhankelijk van b)
 
+\pagebreak
+
 $Y=a(1-e^{-bx}) + c$ 
 
 $a+c$ is de bovengrens (saturatie)\newline
 $c$ is de ondergrens
-
-\pagebreak
 
 ## ADBUDG Model
 
@@ -697,14 +698,23 @@ Ervaringen van een diverse groep succesvolle en minder succesvolle bedrijven gev
 
 Enkele factoren die geassocieerd worden met winstgevendheid
 
-- Groeiende markt
-- Vroege life cycle
-- Hoge inflatie
-- Weinig aanbod
-- Hoog marktaandeel
-- Lage (relatieve) kost
-- Hoge (gepercipieerde) kwaliteit
-- ...
+\begin{minipage}[t]{0.5\linewidth}\centering
+\begin{itemize}
+\item Groeiende markt
+\item Vroege life cycle
+\item Hoge inflatie
+\item Weinig aanbod
+\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.5\linewidth}\centering
+\begin{itemize}
+\item Hoog marktaandeel
+\item Lage (relatieve) kost
+\item Hoge (gepercipieerde) kwaliteit
+\item ...
+\end{itemize}
+\end{minipage}
+
 
 ## Kwalitatieve Response Modellen
 
