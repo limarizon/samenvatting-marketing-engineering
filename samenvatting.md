@@ -380,7 +380,7 @@ Zowel klanten als producten of merken kunnen op deze map geplaatst worden, ze zu
     - Pas op positief op de as is niet altijd duidelijk of beter.
 - __Afstand__
     - Tussen objecten bepaalt hoe hard ze verschillen op de verschillende vlakken.
-    - Tussen objecten en vectoren bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de fastand.
+    - Tussen objecten en vectoren bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de afstand.
 
 ![Een voorbeeld van een perceptuele map](./graphics/perceptuelemap.png){height=5cm}
 
@@ -448,7 +448,7 @@ Dit is de eenvoudigste manier om de prijs te bepalen. De waarden die nodig zijn 
 ### Competitor-Oriented Pricing
 De concurrentie heeft ook een invloed op de prijs door hun acties op de markt.
 
-Er zijn twee opties ofwel word de markt prijs gekozen(going rate pricing), ofwel wordt de prijs verlaagt (competitive bidding) om competitie te creëren. 
+Er zijn twee opties ofwel word de markt prijs gekozen(going rate pricing), ofwel wordt de prijs verlaagd (competitive bidding) om competitie te creëren. 
 
 ### Demand-Oriented Pricing
 De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekend dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. In andere woorden de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van of net present value (NPV) van een product voor een gebruiker.
@@ -856,7 +856,7 @@ Veel toepassingen in de marketing
 - ...
 
 ### Logit Model
-De kans dat $y=1$ wordt bepaalt door een aantal beschrijvende variabelen.
+De kans dat $y=1$ wordt bepaald door een aantal beschrijvende variabelen.
 
 $$P(y=1|x) = \frac{
 e^{\beta_0+\beta_1x_1+...+\beta_kx_k}
