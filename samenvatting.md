@@ -478,15 +478,23 @@ $$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Consumenten su
  
 >**note**: Be sure to include all costs when doing a VIU calculation.
 
-> - (Annual) Purchase cost 
-> - Fabrication cost 
-> - Finishing cost 
-> - Inventory cost 
-> - Maintenance/Service cost
-> - Scrap adjustment 
-> - Level-of-requirement adjustment 
-> - Changeover cost 
-> - Risk premium
+\begin{minipage}[t]{0.5\linewidth}\centering
+\begin{itemize}
+\item (Annual) Purchase cost 
+\item Fabrication cost 
+\item Finishing cost 
+\item Inventory cost 
+\item Maintenance/Service cost
+\end{itemize}
+\end{minipage}
+\begin{minipage}[t]{0.5\linewidth}\centering
+\begin{itemize}
+\item Scrap adjustment 
+\item Level-of-requirement adjustment 
+\item Changeover cost 
+\item Risk premium
+\end{itemize}
+\end{minipage}
 
 De __totale economische waarde (TEV)__ is de totale waarde die een product (bv. een machine) biedt. Deze is vaak hoger dan de verwachte waarde en dus de VIU.
 
