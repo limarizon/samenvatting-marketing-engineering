@@ -24,7 +24,11 @@ header-includes:
 Deze samenvatting werd gemaakt voor het OPO Marketing Engineering (B-KUL-D0H54a-1617).
 Er werd vooral gebruik gemaakt van de slides, en de structuur van de slides word dus voor het grootste deel gevolgd.
 
-Voor verbeteringen en uitbreidingen kan je terecht op https://github.com/RobinVanhove/samenvatting-marketing-engineering
+Voor verbeteringen en uitbreidingen kan je terecht op 
+
+>https://github.com/RobinVanhove/samenvatting-marketing-engineering
+
+Bedankt aan Marnik, Marnicq en Simme voor hun bijdragen.
 
 \vfill
 \doclicenseThis
