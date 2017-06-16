@@ -379,18 +379,18 @@ Zowel klanten als producten of merken kunnen op deze map geplaatst worden, ze zu
     - De assen zijn een paar vectoren die het belangrijkste zijn en een object eenvoudig kunnen plaatsen op de map. In een eenvoudige map zijn er vaak maar 2 vectoren.
     - Pas op positief op de as is niet altijd duidelijk of beter.
 - __Afstand__
-    - Tussen objecten bepaalt hoe hard ze verschillen op de verschillende vlakken.
-    - Tussen objecten en vectoren bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de afstand.
+    - Tussen objecten: bepaalt hoe hard ze verschillen op de verschillende vlakken.
+    - Tussen objecten en vectoren: bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de afstand.
 
 ![Een voorbeeld van een perceptuele map](./graphics/perceptuelemap.png){height=5cm}
 
 Gaten tussen de vectoren kunnen een gat in de markt zijn. Maar een map wordt meestal gebruikt om te kijken welke klanten bij welk merk passen, en zo de markt in kaart te brengen.
 
 ### Factor Analyse
-Een __factor analyse__ is een lineaire combinatie van attributen. Die een score geeft aan iedere observatie gebaseerd op de attributen.
+Een __factor analyse__ is een lineaire combinatie van attributen, die een score geeft aan iedere observatie gebaseerd op de attributen.
 $$F_j = \sum a_{ji}x_i$$
 
-Ideaal 2 dimensies(factoren) waarbij de twee factoren orthogonaal zijn, en dus hard verschillen. Waardoor er met twee factoren zo veel mogelijk informatie bewaart blijft. 
+Ideaal 2 dimensies(factoren) waarbij de twee factoren orthogonaal zijn, en dus hard verschillen. Waardoor er met twee factoren zo veel mogelijk informatie bewaard blijft. 
 
 ### Gebruik van Mapping
 
@@ -422,7 +422,7 @@ __Limitaties__
 - Houdt geen rekening met de kost of haalbaarheid
 
 # Pricing
-De vraag en de winst van ons product zal bepaalt worden door de __prijs__ ervan.
+De vraag en de winst van ons product zal bepaald worden door de __prijs__ ervan.
 
 ## Prijs Elasticiteit
 __Prijs elasticiteit.__ het ratio waarmee de vraag stijgt of daalt in verhouding met de prijs.
@@ -441,17 +441,17 @@ $0$                           Perfect inelastisch     Een heel kleine veranderin
 ## Prijs in de de Praktijk
 
 ### Cost-Oriented Pricing
-De kost beïnvloed de prijs omdat dit direct de hoeveelheid goederen bepaalt.
+De kost beïnvloedt de prijs omdat dit direct de hoeveelheid goederen bepaalt.
 
 Dit is de eenvoudigste manier om de prijs te bepalen. De waarden die nodig zijn worden eenvoudig geschat, en berekend.
 
 ### Competitor-Oriented Pricing
 De concurrentie heeft ook een invloed op de prijs door hun acties op de markt.
 
-Er zijn twee opties ofwel word de markt prijs gekozen(going rate pricing), ofwel wordt de prijs verlaagd (competitive bidding) om competitie te creëren. 
+Er zijn twee opties ofwel wordt de markt prijs gekozen(going rate pricing), ofwel wordt de prijs verlaagd (competitive bidding) om competitie te creëren. 
 
 ### Demand-Oriented Pricing
-De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekend dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. In andere woorden de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van of net present value (NPV) van een product voor een gebruiker.
+De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekent dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. In andere woorden de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van of net present value (NPV) van een product voor een gebruiker.
 
 $$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Productie kost} + \text{Consumenten surplus}$$
 
@@ -469,7 +469,7 @@ $$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Productie kost
 > - Changeover cost 
 > - Risk premium
 
-De __totale economische waarde (TEV)__ is de totale waarde die een product (bv. een machine) biedt. Deze is vaak hooger dan de verwachte waarde en dus de VIU.
+De __totale economische waarde (TEV)__ is de totale waarde die een product (bv. een machine) biedt. Deze is vaak hoger dan de verwachte waarde en dus de VIU.
 
 De perceived value is lager dan de TEV omdat:
 
@@ -477,10 +477,10 @@ De perceived value is lager dan de TEV omdat:
 - De voordelen wel weet maar sceptisch is
 - Niet bewust is van het echte belang
 
-$\Rightarrow$  Solution: Verberter het level en de kwalitiet van de marketing campagnes gericht op de klant.$
+$\Rightarrow$  Solution: Verbeter het level en de kwalitiet van de marketing campagnes gericht op de klant.$
 
 ## Prijsdiscriminatie (Price customization)
-__Prijsdiscriminatie__ is het aanpassen van de prijs aan wat en segment bereid is te betalen. Dit is een manier oom aan __ravenue management__ te doen.
+__Prijsdiscriminatie__ is het aanpassen van de prijs aan wat en segment bereid is te betalen. Dit is een manier om aan __ravenue management__ te doen.
 
 - Controlling availability i.e. selectively presenting an offer to a particular group of customers but not to others (F.e. visitation & purchasing history,....)
 - Based on buyer characteristics (F.e. age, gender, location (geographic), user status,...)
