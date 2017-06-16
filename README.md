@@ -17,7 +17,7 @@ Om nieuwe aanpssingen te compileren gebruik [pandoc](http://pandoc.org/)
 $ pandoc samenvatting.md -o samenvatting.pdf
 ```
 
-# Contributers
+# Contributors
 
 Bedankt aan de volgende versie voor hun bijdragen.
 
