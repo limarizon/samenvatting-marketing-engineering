@@ -471,7 +471,7 @@ Er zijn twee opties ofwel wordt de markt prijs gekozen (going rate pricing), ofw
 ### Demand-Oriented Pricing
 De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekent dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. In andere woorden de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van of net present value (NPV) van een product voor een gebruiker.
 
-$$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Productie kost} + \text{Consumenten surplus}$$
+$$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Consumenten surplus}$$
 
 - __VIU__: The hypothetical price for a firm’s offering at which a particular customer would be at overall economic break-even relative to the best alternative available to that customer for performing a set of functions.
 - __TEV__: Cost of the next-based alternative + value of the performance differential
