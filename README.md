@@ -17,6 +17,15 @@ Om nieuwe aanpssingen te compileren gebruik [pandoc](http://pandoc.org/)
 $ pandoc samenvatting.md -o samenvatting.pdf
 ```
 
+## Pandoc op computers in de sol
+
+Bekijk de [install guide](https://github.com/jgm/pandoc/blob/master/INSTALL.md#quick-cabal-method) van pandoc.
+
+```sh
+cabal update
+cabal install pandoc
+```
+
 # Contributors
 
 Bedankt aan de volgende versie voor hun bijdragen.

@@ -26,11 +26,14 @@ Er werd vooral gebruik gemaakt van de slides, en de structuur van de slides word
 
 Voor verbeteringen en uitbreidingen kan je terecht op 
 
->https://github.com/RobinVanhove/samenvatting-marketing-engineering
+> <https://github.com/RobinVanhove/samenvatting-marketing-engineering>
 
 Bedankt aan Marnik, Marnicq, Simme en Wouter voor hun bijdragen.
 
 \vfill
+\hfill Versie \input{VERSION.txt}
+
+\hfill Gecompileerd op \today
 \doclicenseThis
 \clearpage
 
