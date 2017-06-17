@@ -31,6 +31,9 @@ Voor verbeteringen en uitbreidingen kan je terecht op
 Bedankt aan Marnik, Marnicq, Simme en Wouter voor hun bijdragen.
 
 \vfill
+\hfill Versie \input{VERSION.txt}
+
+\hfill Gecompileerd op \today
 \doclicenseThis
 \clearpage
 
