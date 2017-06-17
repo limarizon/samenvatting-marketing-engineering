@@ -94,7 +94,7 @@ __Consumentenpanel__: longitudinale, continue studie van een representatieve ste
 
 >**note**: Een voorbeeld is Nielsen: Ze verzamelen data van kopers zoals scanner data, coupons en displays, in meer dan 100 verschillende landen en verkopen deze data aan andere bedrijven. 
 
-Consumenten Panel in FMCG(Fast Moving Consumer Goods):
+Consumenten Panel in FMCG (Fast Moving Consumer Goods):
 
 - Totaal bestedingen
     - Wat is de ontwikkeling van de totale besteding voor Fast Moving Consumer Goods?
@@ -401,7 +401,7 @@ Zowel klanten als producten of merken kunnen op deze map geplaatst worden, ze zu
     - Pas op positief op de as is niet altijd duidelijk of beter.
 - __Afstand__
     - Tussen objecten: bepaalt hoe hard ze verschillen op de verschillende vlakken.
-    - Tussen objecten en vectoren: bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn te trekken naar de vector, waar de lijn op de vector neerkomt bepaalt de afstand.
+    - Tussen objecten en vectoren: bepaalt de waarde van dat object in dat attribuut. Meet dit door een loodrechte lijn op de vector te projecteren vanuit het punt. Het is mogelijk dat je de vector door de oorsprong moet verlengen. De afstand is dan negatief.
 
 ![Een voorbeeld van een perceptuele map](./graphics/perceptuelemap.png){height=5cm}
 
@@ -471,13 +471,15 @@ De concurrentie heeft ook een invloed op de prijs door hun acties op de markt.
 Er zijn twee opties ofwel wordt de markt prijs gekozen (going rate pricing), ofwel wordt de prijs verlaagd (competitive bidding) om competitie te creëren. 
 
 ### Demand-Oriented Pricing
-De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekent dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. In andere woorden de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van of net present value (NPV) van een product voor een gebruiker.
+De consumenten bepalen mee de prijs door hun invloed op de vraag. Dit betekent dat we een hoge prijs kunnen vragen als er veel vraag is en de prijs verlagen als dit nodig is. Dit is __Value-based pricing__, dit leunt op de __value-in-use (VIU)__, dit is de verkoopprijs en de waarde die een consument geeft aan het product dat hij/zij nu gebruikt. Met andere woorden, de prijs waarvoor hij net niet een nieuw product zou kopen. Of in andere woorden de waarde van net present value (NPV) van een product voor een gebruiker.
 
 $$\text{VIU} = \text{Productie kost} + \text{Winst marge} + \text{Consumenten surplus}$$
 
 - __VIU__: The hypothetical price for a firm’s offering at which a particular customer would be at overall economic break-even relative to the best alternative available to that customer for performing a set of functions.
-- __TEV__: Cost of the next-based alternative + value of the performance differential
+- __TEV__: Cost of the next-based[^twijfel] alternative + value of the performance differential
  
+[^twijfel]: Dit is letterlijk overgenomen uit de slides. Alhoewel wij geloven dat het _next-best_ moet zijn.
+
 >**note**: Be sure to include all costs when doing a VIU calculation.
 
 \begin{minipage}[t]{0.5\linewidth}\centering
@@ -602,8 +604,6 @@ $Y=ae^{bx}; x>0$
 
 Stijgende of dalende meeropbrengsten (afhankelijk van b)
 
-\pagebreak
-
 $Y=a(1-e^{-bx}) + c$ 
 
 $a+c$ is de bovengrens (saturatie)\newline
@@ -625,7 +625,7 @@ Een goed model voor subjectieve calibratie.
 
 __Calibratie__ is het toewijzen van goede waarden voor de parameters in het model.
 
-__Subjectieve (judgmental) calibratie__ wordt toegepast op basis enkele vragen.
+__Subjectieve (judgmental) calibratie__ wordt toegepast op basis van enkele vragen.
  
 > Wat is huidig niveau van reclame en verkoop\newline
 > Wat is de verkoop als de hoeveelheid advertenties = 0?\newline
@@ -641,6 +641,8 @@ De nieuwe variabelen kunnen opgeteld (additief model) of vermenigvuldigd worden 
 > **note**: Het multiplicatieve model wordt zeer vaak gebruikt in marketing
 
 ### Dynamische effecten
+
+Bekijk figuur \ref{fig:de}.
 
 \begin{figure}[!h]
     \centering
@@ -831,9 +833,9 @@ Keuze op basis van ervaring of een checklist.
     - Of verplaatsingstijden
 - __Concurrentie__
     - directe en indirecte concurrentie
-    - __Attractie effect __(aantrekkingskracht van gevestigde winkels "anchor stores") Klanten komen vaan naar clusters van winkels.
-    - Sommige winkel ook __complimentair__
-    - __Saturatie__ (te veel winkels van zelfde type)
+    - __Attractie effect __(aantrekkingskracht van gevestigde winkels "anchor stores") Klanten komen vaak naar clusters van winkels.
+    - Sommige winkels ook zijn __complimentair__
+    - __Saturatie__ (te veel winkels van eenzelfde type)
 - __Kosten__
     - __Aankoop- of huurprijs__
     - Renovatie
@@ -927,13 +929,13 @@ Om een nieuw product te ontwikkelen en succesvol op de markt te brengen moeten e
 ## Behoefte van de Consument
 Hoe kun je nu de voorkeuren van een consument bepalen? Om vervolgens het product te ontwikkelen tegen een goede kostprijs.
 
-__Conjoint analyse__ is een methode om de structuur van consumentenvoorkeuren te verstaan en te incorporeren in het prodect ontwikkelingsproces. Het laat toe om te evalueren hoe consumenten een trade-off maken tussen verschillende product attributen en levels. We willen:
+__Conjoint analyse__ is een methode om de structuur van consumentenvoorkeuren te verstaan en te incorporeren in het product ontwikkelingsproces. Het laat toe om te evalueren hoe consumenten een trade-off maken tussen verschillende product attributen en levels. We willen:
 
 - Een numerieke waarde voor het relatieve belang consumenten hechten aan attributen in een product categorie.
 - Een numerieke waarde voor het relatieve belang consumenten hechten aan elk kenmerk (level) binnen een attribuut.
 - Identificatie van product designs die marktaandeel of andere indices maximaliseren.
 
-We doen dit dus door een onderzoek uit te voeren waarin de respondent attributen moet afwegen en beoordelen. De studie bestaat uit enkele stappen.
+We doen dit door een onderzoek uit te voeren waarin de respondent attributen moet afwegen en beoordelen. De studie bestaat uit enkele stappen.
 
 1. Design de studie
 2. Verkrijg data van respondenten
@@ -962,7 +964,7 @@ Waarbij
 
 - $i$ de respondent is
 - $j$ het product, dus een bundel is
-- $R_{ij}$ de score de $i$ geeft aan $j$
+- $R_{ij}$ de score die $i$ geeft aan $j$
 - $a_{ikm}$ De waarde volgens $i$ voor het attribuut $k$ op level $m$
 - $M_K$ is het aantal levels van attribuut $k$
 - $K$ is het aantal attributen
@@ -975,7 +977,7 @@ $R_{ij}$ zijn dus de resultaten van de studie en $a_{ikm}$ is wat we willen wete
 1. Segmenteer klanten op part-worth functies
     - Dus waar ze belang aan hechten
 2. Simuleer de markt
-    - Aan de hand van oa market share forcasts
+    - Aan de hand van o.a. market share forcasts
 3. Maak een keuze
     - We kiezen een product dat het beste past per segment
     - Men moet er wel rekening met houden dat een nieuw product ook zal concurreren met een bestaand product van hetzelfde merk, dit is __cannibalisatie__.
